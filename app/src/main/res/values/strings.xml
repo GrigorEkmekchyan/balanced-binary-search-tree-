@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BinaryTreeFinishExample</string>
+    <string name="find">Have Child</string>
+    <string name="delete">Delete</string>
+    <string name="insert">Insert</string>
+    <string name="findAllChild">All Tree</string>
+</resources>
